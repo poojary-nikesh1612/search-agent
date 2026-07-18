@@ -1,1 +1,1 @@
-# Web Search Agent using Langchain
+# Web Search & Structured Output Agent using LangChain and Tavily
